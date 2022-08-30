@@ -30,7 +30,7 @@ To run the project on your machine use npm run serve for a dev server. Navigate 
 
 ## Screenshots
 * Homepage
-
+ 
 ![homepage](src/assets/1.png?raw=true "Homepage")
 
 * Login dialog
